@@ -20,9 +20,16 @@ O trabalho feito em [POV-Ray](https://github.com/POV-Ray/povray) 3.7 e possui:
 
 ## CSG Tree
 
-Para uma visualização rápida de como a cena principal está montada, veja a imagem [CSG_Tree.png](CSG_Tree.png) ou [CSG_Tree.svg](CSG_Tree.csv)
+Para uma visualização rápida de como a cena principal está montada, veja a imagem [CSG_Tree.png](CSG_Tree.png) ou [CSG_Tree.svg](CSG_Tree.svg)
 
 ![CSG_Tree](CSG_Tree.png)
+
+
+## Quick Start
+
+```sh
+povray main.pov
+```
 
 
 ## Thanks
