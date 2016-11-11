@@ -1,0 +1,5 @@
+{
+    "commands": [
+        "*.pov : povray -W1440 -H1024 {filename}"
+    ]
+}
